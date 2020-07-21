@@ -1,8 +1,7 @@
 # Style Transfer with Pytorch
 
-```
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shawn-xyg/style_transfer_with_pytorch/blob/master/Style_Transfer.ipynb)
-```
+
 
 A simple implementation of neural style transfer on Pytorch.
 
